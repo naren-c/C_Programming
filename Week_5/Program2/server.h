@@ -1,0 +1,1 @@
+void replace(char *s, char ch1, char ch2);

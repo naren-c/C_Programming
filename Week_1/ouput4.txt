@@ -1,0 +1,8 @@
+ Volume in drive D is Data
+ Volume Serial Number is EE55-8908
+
+ Directory of D:\PES\Semester 2\Computer_Science- C Programming\Slides and Notes\Unit_1\Class_Programs
+
+09-05-2021  20:12            40,766 a.exe
+               1 File(s)         40,766 bytes
+               0 Dir(s)  208,350,982,144 bytes free

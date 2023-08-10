@@ -1,0 +1,1 @@
+int unique(int a[], int n);
